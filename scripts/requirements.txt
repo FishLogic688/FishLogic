@@ -1,0 +1,4 @@
+feedparser
+gtts
+pillow
+requests
